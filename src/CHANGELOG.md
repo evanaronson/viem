@@ -1,5 +1,11 @@
 # viem
 
+## 2.27.0
+
+### Minor Changes
+
+- [#3440](https://github.com/wevm/viem/pull/3440) [`e06a46a732d075f3a0d3bca916f82f39ee9d4344`](https://github.com/wevm/viem/commit/e06a46a732d075f3a0d3bca916f82f39ee9d4344) Thanks [@adraffy](https://github.com/adraffy)! - Added support for [ENSIP-21: Batch Gateway Offchain Lookup Protocol](https://github.com/ensdomains/ensips/blob/master/ensips/21.md).
+
 ## 2.26.5
 
 ### Patch Changes
