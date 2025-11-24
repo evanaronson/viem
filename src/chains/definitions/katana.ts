@@ -17,7 +17,7 @@ export const katana = /*#__PURE__*/ defineChain({
   blockExplorers: {
     default: {
       name: 'katana explorer',
-      url: 'https://explorer.katanarpc.com',
+      url: 'https://www.katanascan.com',
     },
   },
   testnet: false,
